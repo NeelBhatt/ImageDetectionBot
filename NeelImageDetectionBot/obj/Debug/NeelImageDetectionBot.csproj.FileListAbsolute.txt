@@ -1,0 +1,42 @@
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\obj\Debug\NeelImageDetectionBot.csproj.CoreCompileInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Bot Application.dll.config
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Bot Application.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Bot Application.pdb
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Autofac.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Chronic.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Bot.Builder.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Bot.Connector.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.ProjectOxford.Vision.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Newtonsoft.Json.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.Net.Http.Formatting.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.Web.Http.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.Web.Http.WebHost.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Autofac.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Bot.Builder.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.Bot.Connector.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\Newtonsoft.Json.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.Net.Http.Formatting.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.Web.Http.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\System.Web.Http.WebHost.xml
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\obj\Debug\Bot Application.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\obj\Debug\Bot Application.pdb
+c:\users\e074368\documents\visual studio 2017\Projects\NeelImageDetectionBot\NeelImageDetectionBot\obj\Debug\NeelImageDetectionBot.csprojResolveAssemblyReference.cache
